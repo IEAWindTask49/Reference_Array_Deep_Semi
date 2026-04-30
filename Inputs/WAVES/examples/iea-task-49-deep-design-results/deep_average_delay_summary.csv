@@ -1,0 +1,30 @@
+agent,additional,duration
+Anchor Handling Tug,end of shift,1.1366869918699187
+Anchor Handling Tug,no requests,18.455308333333335
+Anchor Handling Tug,weather delay,350.40511087962966
+Cable Laying Vessel,end of shift,1.2333333333333332
+Cable Laying Vessel,no requests,17.24575902777778
+Cable Laying Vessel,weather delay,656.2167444444444
+Crew Transfer Vessel 1,end of charter,1.291666666666667
+Crew Transfer Vessel 1,end of shift,2019.2838053240741
+Crew Transfer Vessel 1,no requests,220.7971898148148
+Crew Transfer Vessel 1,not in working hours,0.6616858626919603
+Crew Transfer Vessel 1,weather delay,2306.239125556137
+Crew Transfer Vessel 2,end of charter,1.291666666666667
+Crew Transfer Vessel 2,end of shift,2020.1284986111111
+Crew Transfer Vessel 2,no requests,218.26348032407407
+Crew Transfer Vessel 2,not in working hours,0.6374934895833333
+Crew Transfer Vessel 2,weather delay,2306.6136080905685
+Crew Transfer Vessel 3,end of charter,1.291666666666667
+Crew Transfer Vessel 3,end of shift,2018.0224479166666
+Crew Transfer Vessel 3,no requests,222.616675
+Crew Transfer Vessel 3,not in working hours,0.700462962962963
+Crew Transfer Vessel 3,weather delay,2306.0122655614596
+Diving Support Vessel,end of shift,153.49378101851852
+Diving Support Vessel,no requests,367.86921087962963
+Diving Support Vessel,not in working hours,0.6672643389917696
+Diving Support Vessel,weather delay,450.75537731481484
+Tugboat 1,end of shift,42.131542592592595
+Tugboat 1,weather delay,202.9318627314815
+Tugboat 2,end of shift,41.92716712962963
+Tugboat 2,weather delay,199.8104886574074

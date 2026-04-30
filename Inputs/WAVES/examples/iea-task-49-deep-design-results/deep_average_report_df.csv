@@ -1,0 +1,22 @@
+Metrics,FAD Deep Case - Floating
+# OSS,1.0
+# Turbines,67.0
+AEP (MWh),4453744.981987582
+AEP per kW (MWh/kW),4.431587046753812
+Annual OpEx per kW ($/kW),94.90289674723994
+CapEx ($),6362763176.829126
+CapEx per kW ($/kW),6331.107638635946
+Energy Availability (%),92.92660129567926
+FCR (%),6.76253861057786
+Gross Capacity Factor (%),61.318711467574246
+LCOE ($/MWh),118.02756944412104
+Net Capacity Factor With All Losses (%),50.55426701749729
+Offtake Price ($/MWh),83.3
+OpEx ($),1907548224.6195228
+OpEx per kW ($/kW),1898.0579349447987
+Potential AEP from WOMBAT (kWh),5005505624.725
+Production AEP from WOMBAT (kWh),4651446254.721
+Project Capacity (MW),1005.0
+Total Array Cable Length (km),261.347153627
+Total Export Cable Length (km),133.8999384405
+Turbine Rating (MW),15.0
