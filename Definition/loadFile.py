@@ -9,7 +9,7 @@ import os
 dir = os.path.dirname(os.path.realpath(__file__))
 input_file = os.path.join(dir,'task49_deepwater_array.yaml')
 
-# initialize Project class with input file, we don't need RAFT for this so mark False
+# initialize Project class with input file, use RAFT for 3D plotting
 project = Project(file=input_file,raft=True)
 
 # plot 2D
