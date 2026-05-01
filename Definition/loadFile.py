@@ -12,6 +12,10 @@ input_file = os.path.join(dir,'task49_deepwater_array.yaml')
 # initialize Project class with input file, use RAFT for 3D plotting
 project = Project(file=input_file,raft=True)
 
+# plot 2D with cable labels (this may help with debugging the cable routing)
+settings = {'cable_labels': True}
+project.plot2d(plot_bathymetry = False, **settings)
+
 # plot 2D
 project.plot2d(plot_bathymetry = False)
 
